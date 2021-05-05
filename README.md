@@ -10,7 +10,7 @@ The procedure is standard (https://doi.org/10.1016/j.brainresbull.2015.04.007):
 4) spike sorting using mixture of gaussians
 
 
-The data used in the notebook can be downloaded here: 
+The data used in the notebook can be downloaded here: https://drive.google.com/file/d/1jnKv4zf-8l5ubCmXZDk6HzuwNF7aCK9S/view?usp=sharing
 Alternatively, the same data can be generated using the notebook "Generate_Data.ipynb".
 This will create a binary file with 4 digitalized LFP channels, which consist of spikes, oscillations and noise.
 
