@@ -8,6 +8,7 @@ The procedure is standard (https://doi.org/10.1016/j.brainresbull.2015.04.007):
 2) robust median absolute deviation to detect spikes
 3) feature extraction using PCA (3features per channel)
 4) spike sorting using mixture of gaussians
+
 This notebook will output one file, "clus_res.npy", containing time stamps and putative cluster label of each detected spike.
 
 The LFP data used in the notebook can be downloaded here: https://tinyurl.com/LFPdataspike
